@@ -2,7 +2,7 @@
 
 My first C# Windows app?
 
-[![Development Note p.265](https://img.youtube.com/vi/Y7h6YTQTASg/0.jpg)](https://www.youtube.com/watch?v=Y7h6YTQTASg)
+[![Development Note p.105](https://img.youtube.com/vi/Y7h6YTQTASg/0.jpg)](https://www.youtube.com/watch?v=Y7h6YTQTASg)
 
 # **Links(링크)**
 
