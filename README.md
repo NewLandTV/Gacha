@@ -2,7 +2,15 @@
 
 My first C# Windows app?
 
+# Videos(영상)
+
+## 01. Dev Note p.105
+
 [![Development Note p.105](https://img.youtube.com/vi/Y7h6YTQTASg/0.jpg)](https://www.youtube.com/watch?v=Y7h6YTQTASg)
+
+## 02. Dev Note p.487
+
+[![Development Note p.487](https://img.youtube.com/vi/rUB_CUofjCA/0.jpg)](https://www.youtube.com/watch?v=rUB_CUofjCA)
 
 # **Links(링크)**
 
